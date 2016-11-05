@@ -1,0 +1,4 @@
+My Api key : e85d96a0d32e2ee49d11a15fd2782302
+Public Url For Movies : http://api.themoviedb.org/3/Movie/popular?api_key=e85d96a0d32e2ee49d11a15fd2782302
+Url For images : http://image.tmdb.org/t/p/w185//
+Url for videos : http://api.themoviedb.org/3/Movie/244786/videos?api_key=e85d96a0d32e2ee49d11a15fd2782302

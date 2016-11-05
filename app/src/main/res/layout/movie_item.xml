@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:id="@+id/relaGrid">
+    <ImageView
+    android:id="@+id/img"
+    android:layout_width="250dp"
+    android:layout_height="270dp"
+    android:contentDescription="@string/app_name"
+    tools:context=".Activites.MainActivity"
+    android:scaleType="centerCrop"
+    android:adjustViewBounds="true"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentStart="true">
+    </ImageView>
+</RelativeLayout>
